@@ -1,0 +1,6 @@
+export const SET_SEARCH_TEXT = 'SET_SEARCH_CHANGE'
+export const SET_FILTER_TYPE = 'FILTER_TYPE'
+export const ADD_ITEM = 'ADD_ITEM'
+export const REMOVE_ITEM = 'REMOVE_ITEM'
+export const PUSH_TO_HISTORY = 'PUSH_TO_HISTORY'
+export const REMOVE_ALL_ITEMS = 'REMOVE_ALL_ITEMS'

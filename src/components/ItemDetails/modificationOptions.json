@@ -1,0 +1,170 @@
+{
+  "Drinks": [
+    {
+      "name": "cupSize",
+      "label": "Cup size",
+      "values": [
+        {
+          "label": "Small",
+          "value": "Small"
+        },
+        {
+          "label": "Medium",
+          "value": "Medium"
+        },
+        {
+          "label": "Large",
+          "value": "Large"
+        }
+      ]
+    },
+    {
+      "name": "iceLevel",
+      "label": "Ice level",
+      "values": [
+        {
+          "label": "30%",
+          "value": "30%"
+        },
+        {
+          "label": "60%",
+          "value": "60%"
+        },
+        {
+          "label": "100%",
+          "value": "100%"
+        }
+      ]
+    },
+    {
+      "name": "sugarLevel",
+      "label": "Sugar Level",
+      "values": [
+        {
+          "label": "30%",
+          "value": "30%"
+        },
+        {
+          "label": "60%",
+          "value": "60%"
+        },
+        {
+          "label": "100%",
+          "value": "100%"
+        }
+      ]
+    }
+  ],
+  "Pizza": [
+    {
+      "name": "size",
+      "label": "Size",
+      "values": [
+        {
+          "label": "Small",
+          "value": "Small"
+        },
+        {
+          "label": "Medium",
+          "value": "Medium"
+        },
+        {
+          "label": "Large",
+          "value": "Large"
+        }
+      ]
+    },
+    {
+      "name": "doughType",
+      "label": "Dough type",
+      "values": [
+        {
+          "label": "Loose",
+          "value": "Loose"
+        },
+        {
+          "label": "Thin",
+          "value": "Thin"
+        },
+        {
+          "label": "Board Hot-Dog",
+          "value": "Board Hot-Dog"
+        }
+      ]
+    },
+    {
+      "name": "additions",
+      "label": "Additions",
+      "values": [
+        {
+          "label": "Corn",
+          "value": "Corn"
+        },
+        {
+          "label": "Mushrooms",
+          "value": "Mushrooms"
+        },
+        {
+          "label": "Tomatoes",
+          "value": "Tomatoes"
+        }
+      ]
+    }
+  ],
+  "Sweets": [
+    {
+      "name": "quantiny",
+      "label": "Quantity",
+      "values": [
+        {
+          "label": "1",
+          "value": "1"
+        },
+        {
+          "label": "5",
+          "value": "5"
+        },
+        {
+          "label": "10",
+          "value": "10"
+        }
+      ]
+    },
+    {
+      "name": "flavor",
+      "label": "Flavor",
+      "values": [
+        {
+          "label": "Chocolate",
+          "value": "Chocolate"
+        },
+        {
+          "label": "Fruits",
+          "value": "Fruits"
+        },
+        {
+          "label": "Berries",
+          "value": "Berries"
+        }
+      ]
+    },
+    {
+      "name": "sprinkle",
+      "label": "Sprinkle",
+      "values": [
+        {
+          "label": "Yes",
+          "value": "Yes"
+        },
+        {
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "label": "Assorted",
+          "value": "Assorted"
+        }
+      ]
+    }
+  ]
+}
