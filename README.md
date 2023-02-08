@@ -1,6 +1,6 @@
 # foodpoint-rn
 
-A boilerplate food delvery example app. Built with React Native and Redux.
+A boilerplate food delivery example app. Built with React Native and Redux.
 
 ## Screenshots:
 
